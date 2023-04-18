@@ -7,7 +7,7 @@ This app serves as a convenient day organizer for the user. By inputting tasks o
 To utilize this tool, enter the event name and any relevant details into the corresponding block at the time of the event, and then click the "save" button located on the right side of that block. In case you need to modify the text, simply make the necessary changes and don't forget to save again. Good Luck!
 
 ## Installation
-
+![image](./webplanner.PNG)
 
 ## Credits
 UT Austin for stater code and tutor!
